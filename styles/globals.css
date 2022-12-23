@@ -19,7 +19,7 @@ body {
 	display: flex;
 	flex-direction: column;
 }
-body > div {
+body > div:nth-of-type(1) {
 	height: 100%;
 }
 
